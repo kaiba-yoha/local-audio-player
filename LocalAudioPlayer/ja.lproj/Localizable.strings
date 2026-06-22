@@ -1,0 +1,9 @@
+/* Japanese */
+"picker.label" = "タップで音声ファイルを追加";
+"picker.sublabel" = "複数選択OK / 端末内で再生（アップロードなし）";
+"add.files" = "ファイルを追加";
+"speed" = "速度";
+"sleep.timer" = "スリープタイマー";
+"privacy.note" = "音声ファイルは端末内でのみ再生されます";
+"sleep.remaining" = "残り %d分";
+"sleep.stopped" = "タイマーで停止しました";

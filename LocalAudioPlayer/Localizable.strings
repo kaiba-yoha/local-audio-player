@@ -1,0 +1,9 @@
+/* English - Default */
+"picker.label" = "Tap to add audio files";
+"picker.sublabel" = "Multiple files OK / Plays locally (no upload)";
+"add.files" = "Add files";
+"speed" = "Speed";
+"sleep.timer" = "Sleep Timer";
+"privacy.note" = "All files stay on your device — nothing is uploaded.";
+"sleep.remaining" = "%d min remaining";
+"sleep.stopped" = "Stopped by timer";
